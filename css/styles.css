@@ -1,0 +1,52 @@
+#intro {
+    background-size: cover;
+    /* background-image: url('images/gyro2.jfif'); */
+    background-repeat: no-repeat;
+    color: rgb(28, 26, 26);
+    text-align: center;
+    height: 1100px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.float-left p {
+    font-size: 24px;
+}
+
+#second {
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(28, 26, 26);
+    text-align: center;
+    height: 1100px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+#third {
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(28, 26, 26);
+    text-align: center;
+    height: 1100px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+#forth {
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(28, 26, 26);
+    text-align: center;
+    height: 1100px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+ul {
+    list-style: none;
+}
+
+a img {
+    margin-left: 45%;
+}
